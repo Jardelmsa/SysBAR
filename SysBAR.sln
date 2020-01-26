@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysBAR", "SysBAR\SysBAR.csproj", "{EE2AE707-66BE-4192-8A04-16E4AD565B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDados.DAL", "CamadaDados.DAL\CamadaDados.DAL.csproj", "{FBF6C569-505C-4DDB-B6C9-92117D24BF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2AE707-66BE-4192-8A04-16E4AD565B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2AE707-66BE-4192-8A04-16E4AD565B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2AE707-66BE-4192-8A04-16E4AD565B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2AE707-66BE-4192-8A04-16E4AD565B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF6C569-505C-4DDB-B6C9-92117D24BF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF6C569-505C-4DDB-B6C9-92117D24BF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF6C569-505C-4DDB-B6C9-92117D24BF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF6C569-505C-4DDB-B6C9-92117D24BF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013C5F4F-16B2-489F-BF30-755FAE7C12FE}
+	EndGlobalSection
+EndGlobal
